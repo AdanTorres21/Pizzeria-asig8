@@ -1,0 +1,40 @@
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 1\Tarea 2\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 1\Tarea 2\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.pdb
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 1\Tarea 2\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 1\Tarea 2\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 1\Tarea 2\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.pdb
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 2\Tarea 4\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 2\Tarea 4\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.pdb
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 2\Tarea 4\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 2\Tarea 4\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 2\Tarea 4\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.pdb
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll.config
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.pdb
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.dll
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.xml
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.dll
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.pdb
+C:\Proyecto_Pizzeria\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll.config
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\BL.Pizzeria.pdb
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.xml
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.dll
+C:\Users\joeal\OneDrive\Escritorio\Tercer Periodo\Lenguaje De Programacion III\Unidad 3\Tarea 8\Proyecto\Pizzeria\BL.Pizzeria\obj\Debug\BL.Pizzeria.pdb
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll.config
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\BL.Pizzeria.dll
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\BL.Pizzeria.pdb
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\EntityFramework.dll
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\EntityFramework.xml
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\obj\Debug\BL.Pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\obj\Debug\BL.Pizzeria.dll
+C:\Users\adan.garcia\Desktop\Asignación 8\BL.Pizzeria\obj\Debug\BL.Pizzeria.pdb
